@@ -1,4 +1,5 @@
 # QB_Project
+
 ## Predicting How Many Touchdowns a Quarterback Will Throw in a Game
  
 ![image](https://user-images.githubusercontent.com/86930309/182204292-9bba47db-947a-47fd-acde-dfd9c76246f6.png)
@@ -41,8 +42,7 @@ The Random Forest R2 score was nearly perfect at .997. It had a very solid MAE o
  
  
 ## 5.Recommendations and Going Forward 
- 
-Metrics in the NFL is an interesting concept. There are many variables that we cannot quantify, like a player’s will and determination at any given moment. The future is hard to predict. This random forest model to predict touchdowns a QB will throw is very helpful in understanding what could potentially happen in a game. It gives us a chance to comprehend how a player might do. The more information the better we can make decisions.
+ Metrics in the NFL is an interesting concept. There are many variables that we cannot quantify, like a player’s will and determination at any given moment. The future is hard to predict. This random forest model to predict touchdowns a QB will throw is very helpful in understanding what could potentially happen in a game. It gives us a chance to comprehend how a player might do. The more information the better we can make decisions.
  
 I would run models on every stat we have on defense, special teams and offense to predict how every player might perform at each position. This would help to evaluate free agents and our own players. We could improve on who to sign in the off-season. This could potentially lead to more wins and revenue for the organization.
  
