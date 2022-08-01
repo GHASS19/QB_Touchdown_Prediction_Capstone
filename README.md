@@ -12,6 +12,9 @@ The database is the largest collection of quarterback data on Kaggle, (https://w
 This was a regression problem as touchdowns in a game is a continous quantity. I did a train test split on the data to see how accurate each of the four models I examined performed on the data. The four models I tried were linear regression, lasso regression, ridge regression and random forest regression. The best performing model was random forest regression.
 The Random Forest R2 score was nearly perfect at .997. It had a very solid MAE of .006 and RMSE of .06 on the test data. The CV average & Grid Search CV for Random Forest was a very high score of .9977 and .9979.
 	               
-## 3. Data Wrangling & Cleaning 
-[Data Wrangling & Cleaning] (https://github.com/GHASS19/QB_Project/blob/main/Notebooks/2.%20QB_Data_Wrangling.ipynb) 
+## 3. Data Wrangling
+[Data Wrangling](https://github.com/GHASS19/QB_Project/blob/main/Notebooks/2.%20QB_Data_Wrangling.ipynb) 
+In this part of the data exploration I added rows and corrected the columns. I cleaned some of the data and found key features of each columns. I found the standard deviation, median also if any of the columns had a null value. There were 719 missing values for the TD per completion and yards per catch columns. It was 5.45% of their entire column for both of these variables. This phase of the project insured that the data was pure and ready for modeling.
 
+## 4. Exploratory Data Analysis
+[EDA](https://github.com/GHASS19/QB_Project/blob/main/Notebooks/3.%20QB_EDA.ipynb)
