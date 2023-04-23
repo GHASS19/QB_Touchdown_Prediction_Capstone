@@ -1,4 +1,4 @@
-# QB_Project
+# QB Touchdown Capstone
 
 ## Predicting How Many Touchdowns a Quarterback Will Throw in a Game
  
